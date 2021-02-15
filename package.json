@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "puppeteer-currency-converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^7.1.0",
+    "readline-sync": "^1.4.10"
+  },
+  "engines": {
+    "node": ">=13.4"
+  }
+}
